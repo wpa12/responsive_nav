@@ -1,0 +1,12 @@
+{
+  "name": "mobile_nav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "._nav_js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
